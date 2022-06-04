@@ -80,7 +80,7 @@ const ProductDetail = () => {
 
                 <div className="flex md:hidden">
                     <div className="flex bg-product-slide-background bg-cover md:w-[400px] md:h-[400px] px-16 py-16 rounded-xl">
-                        <img src="/asset/product/vital-x-2.png" className=" object-contain" />
+                        <img src="/asset/product/Vital-x-2.png" className=" object-contain" />
                     </div>
                 </div>
             </div>
