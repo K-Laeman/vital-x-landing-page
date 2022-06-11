@@ -7,7 +7,7 @@ const Hero = () => {
                 <div className="flex md:w-7/12 bg-hero-background bg-cover md:bg-contain bg-left bg-no-repeat order-2 md:order-1">
                     <div className="relative flex w-full justify-center items-center  md:mt-24">
                         <div className="flex items-center justify-center object-center w-4/6 md:w-[460px] h-full">
-                            <img src="/asset/Vital-x-3.png" className="object-cover md:object-contain object-bottom" />
+                            <img src="/asset/Vital-x-03.png" className="object-cover md:object-contain object-bottom" />
                         </div>
                         <img src="/asset/png/bubble-e.png" className="absolute top-24 left-4 md:left-12 w-16 md:w-24 animate-blob animation-delay-2000" />
                         <img src="/asset/png/bubble-a.png" className="absolute top-4 left-40 md:left-60 w-12 md:w-16 animate-blobr animation-delay-4000" />
@@ -35,7 +35,7 @@ const Hero = () => {
 
                         <div className="hidden md:block font-thin text-gray-800 md:text-2xl">
                             <p>
-                                {`สุขภาพภายในสมดุลแข็งแรงขึ้น  `}
+                                {`สุขภาพภายในสมดุลแข็งแรงขึ้น`}
                             </p>
                             <p>
                                 {`ผิวกระจ่างใส นุ่มชุ่มชื้นขึ้น`}

@@ -2,23 +2,23 @@ import 'react-slideshow-image/dist/styles.css'
 
 const slideImages = [
     {
-        url: '/asset/gallery/Vital-x-1.jpg',
+        url: '/asset/gallery/vital-x-1.jpg',
         caption: 'Slide 1'
     },
     {
-        url: '/asset/gallery/Vital-x-2.jpg',
+        url: '/asset/gallery/vital-x-2.jpg',
         caption: 'Slide 1'
     },
     {
-        url: '/asset/gallery/Vital-x-3.jpg',
+        url: '/asset/gallery/vital-x-3.jpg',
         caption: 'Slide 1'
     },
     {
-        url: '/asset/gallery/Vital-x-4.jpg',
+        url: '/asset/gallery/vital-x-4.jpg',
         caption: 'Slide 1'
     },
     {
-        url: '/asset/gallery/Vital-x-5.jpg',
+        url: '/asset/gallery/vital-x-5.jpg',
         caption: 'Slide 1'
     },
     {

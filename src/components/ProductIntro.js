@@ -76,7 +76,7 @@ const ProductIntro = () => {
                     </div>
                 </div>
                 <div className="flex md:w-1/2 overflow-hidden rounded-xl order-2 md:order-1">
-                    <img src="/asset/product/vital-x-2.jpg" className=" object-contain" />
+                    <img src="/asset/product/Vital-x-2.jpg" className=" object-contain" />
                 </div>
 
             </div>

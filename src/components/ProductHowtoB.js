@@ -28,7 +28,7 @@ const ProductHowtoB = () => {
                         </span>
                     </div>
                     <div className="md:absolute flex w-full md:top-1/4  justify-center items-center">
-                        <img src="/asset/Vital-x-3.png" className=" w-3/4 md:w-[28rem] object-cotian" />
+                        <img src="/asset/vital-x-3.png" className=" w-3/4 md:w-[28rem] object-cotian" />
                     </div>
                     <div className="flex justify-center md:justify-end gap-4">
                         <div className="flex flex-col items-center gap-4">
