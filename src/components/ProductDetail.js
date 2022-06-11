@@ -30,48 +30,48 @@ const ProductDetail = () => {
                         </div>
                     </div>
 
-                    <div className="flex flex-col gap-2 md:w-1/2">
+                    <div className="flex flex-col gap-4 md:w-1/2">
                         <div className="flex flex-col py-4 px-4 bg-sky-50 gap-2">
-                            <li className="text-sky-800 text-xl font-normal">
+                            <li className="text-sky-800 text-xl md:text-2xl font-normal">
                                 โปรตีนคุณภาพสูงจาก 4 แหล่ง
                             </li>
-                            <span className="text-lg font-light text-sky-900">
+                            <span className="text-xl font-light text-sky-900">
                                 {`โปรตีนจากถั่วลันเตา ข้าวกล้องสีน้ำตาล และเมล็ดเจีย ปราศจากนมวัว ไข่ กลูเตน และยีสต์ ไม่ก่อให้เกิดอาการแพ้เสริมด้วยกรดอะมิโน`}
                             </span>
                         </div>
 
                         <div className="flex flex-col py-4 px-4 bg-sky-50 gap-2">
-                            <li className="text-sky-800 text-xl font-normal">
+                            <li className="text-sky-800 text-xl md:text-2xl font-normal">
                                 {`คอลลาเจน`}
                             </li>
-                            <span className="text-lg font-light text-sky-900">
+                            <span className="text-xl md:2xl font-light text-sky-900">
                                 {`จากปลาทะเลน้ำลึก ซึ่งเป็นคอลลาเจนที่ใกล้เคียงกันกับคอลลาเจนในร่างกาย ช่วยให้ดูดซึมได้ดี`}
                             </span>
                         </div>
 
                         <div className="flex flex-col py-4 px-4 bg-sky-50 gap-2">
-                            <li className="text-sky-800 text-xl font-normal">
+                            <li className="text-sky-800 text-xl md:text-2xl font-normal">
                                 {`พรีไบโอติก (Prebiotic)`}
                             </li>
-                            <span className="text-lg font-light text-sky-900">
+                            <span className="text-xl font-light text-sky-900">
                                 {`สารอาหารที่ช่วยในกระบวนการดูดซึมของลำไส้ ระบบย่อยอาหาร และการขับถ่าย`}
                             </span>
                         </div>
 
                         <div className="flex flex-col py-4 px-4 bg-sky-50 gap-2">
-                            <li className="text-sky-800 text-xl font-normal">
+                            <li className="text-sky-800 text-xl md:text-2xl font-normal">
                                 {`วิตามิน 7 ชนิด`}
                             </li>
-                            <span className="text-lg font-light text-sky-900">
+                            <span className="text-xl font-light text-sky-900">
                                 {`และสารต้านอนุมูลอิสระ ได้แก่ วิตามินซี วิตามินบีคอมแพล็กซ์ วิตามินบี 5 วิตามินอี วิตามินดี ซิงค์(Zinc) และ แมกนีเซียม`}
                             </span>
                         </div>
 
                         <div className="flex flex-col py-4 px-4 bg-sky-50 gap-2">
-                            <li className="text-sky-800 text-xl font-normal">
+                            <li className="text-sky-800 text-xl md:text-2xl font-normal">
                                 {`ซูเปอร์ฟู้ด (Super Food) 7 ชนิด`}
                             </li>
-                            <span className="text-lg font-light text-sky-900">
+                            <span className="text-xl font-light text-sky-900">
                                 {`สุดยอดอาหารที่มีคุณค่าทางโภชนาการสูง ช่วยต้านอนุมูลอิสระ ได้แก่ อะโวคาโด บร๊อคโคลี่ ขึ้นฉ่ายฝรั่ง แครนเบอรี่ อเชโลร่า เชอร์รี่ และอื่นๆ`}
                             </span>
                         </div>
