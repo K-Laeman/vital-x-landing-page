@@ -45,7 +45,7 @@ const ProductDetail = () => {
                                 {`คอลลาเจน`}
                             </li>
                             <span className="text-xl md:2xl font-light text-sky-900">
-                                {`จากปลาทะเลน้ำลึก ซึ่งเป็นคอลลาเจนที่ใกล้เคียงกันกับคอลลาเจนในร่างกาย ช่วยให้ดูดซึมได้ดี`}
+                                {`สกัดจากปลาทะเลน้ำลึก ซึ่งเป็นชนิดที่ใกล้เคียงกับคอลลาเจนในร่างกาย ช่วยให้ดูดซึมได้ดี`}
                             </span>
                         </div>
 
@@ -63,7 +63,7 @@ const ProductDetail = () => {
                                 {`วิตามิน 7 ชนิด`}
                             </li>
                             <span className="text-xl font-light text-sky-900">
-                                {`และสารต้านอนุมูลอิสระ ได้แก่ วิตามินซี วิตามินบีคอมแพล็กซ์ วิตามินบี 5 วิตามินอี วิตามินดี ซิงค์(Zinc) และ แมกนีเซียม`}
+                                {`รวมถึงสารต้านอนุมูลอิสระ ได้แก่ วิตามินซี วิตามินบีคอมแพล็กซ์ วิตามินบี 5 วิตามินอี วิตามินดี ซิงค์(Zinc) และ แมกนีเซียม`}
                             </span>
                         </div>
 
@@ -80,7 +80,7 @@ const ProductDetail = () => {
 
                 <div className="flex md:hidden">
                     <div className="flex bg-product-slide-background bg-cover md:w-[400px] md:h-[400px] px-16 py-16 rounded-xl">
-                        <img src="/asset/product/Vital-x-2.png" className=" object-contain" />
+                        <img src="/asset/product/vital-x-2.png" className=" object-contain" />
                     </div>
                 </div>
             </div>
