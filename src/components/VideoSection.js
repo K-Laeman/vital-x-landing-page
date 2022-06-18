@@ -8,7 +8,7 @@ const VideoSection = () => {
                     <h2 className="text-xl md:text-3xl text-sky-700">ปรับสมดุลตามธรรมชาติ</h2>
                 </div>
                 <div className="w-full">
-                    <iframe className="w-full aspect-video" src="https://www.youtube.com/embed/-Ncq1rIgD38"></iframe>
+                    <iframe className="w-full aspect-video" src="https://www.youtube.com/watch?v=IQPuYNysOes"></iframe>
                 </div>
             </div>
         </div>
