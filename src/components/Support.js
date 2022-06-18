@@ -21,10 +21,10 @@ const Support = () => {
                                     </span>
                                 </div>
                                 <div className="flex flex-col justify-center  items-center">
-                                    <h1 className="text-base font-normal text-white">
+                                    <h1 className="text-base font-medium text-white">
                                         {item.title}
                                     </h1>
-                                    <span className=" text-sm md:text-xs font-thin text-white">
+                                    <span className="text-base font-light text-white">
                                         {item.text}
                                     </span>
                                 </div>

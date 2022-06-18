@@ -24,7 +24,7 @@ const ProductDetail = () => {
                             </div>
                         </div>
                         <div className="flex w-full justify-center text-center md:mt-12">
-                            <p className="text-sky-600 md:text-3xl md:w-2/3">
+                            <p className="text-sky-600 text-2xl md:text-3xl md:w-2/3">
                                 {`เหมือนเข้าคอร์สรักษาที่คลินิค ดูแล แม้อยู่ที่บ้าน`}
                             </p>
                         </div>
