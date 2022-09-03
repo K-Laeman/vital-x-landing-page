@@ -2,6 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/api/hello": "pages/api/hello.js",
+  "/thank-you": "pages/thank-you.html",
   "/": "pages/index.html",
   "/checkout": "pages/checkout.html",
   "/_document": "pages/_document.js",
