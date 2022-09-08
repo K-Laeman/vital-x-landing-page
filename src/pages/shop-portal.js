@@ -11,7 +11,7 @@ const vitalXItems = [
     { id: 1, name: 'website', title: 'Website', link: 'https://vitalxprotein.com/', icon: '/asset/icons/internet.png' },
     { id: 2, name: 'facebook', title: 'Facebook', link: 'https://www.facebook.com/VitalXProteinOfficial', icon: '/asset/icons/facebook.png' },
     { id: 3, name: 'lineoa', title: 'Line', link: 'https://lin.ee/7HUaLAI', icon: '/asset/icons/lineoa.png' },
-    { id: 4, name: 'myshop', title: 'MyShop', link: 'https://shop.line.me/@vitalx', icon: '/asset/icons/myshop.png' },
+
 ]
 
 const ShopPortal = () => {
