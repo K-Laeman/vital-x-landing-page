@@ -3,7 +3,7 @@ const Support = () => {
 
     const supportItem = [
         { id: 0, title: '@vitalx', text: 'add friend', image: '/asset/support/03.png', link: 'https://page.line.me/379rwtos' },
-        { id: 0, title: 'Vital-X Protein', text: 'follow us', image: '/asset/support/04.png', link: 'https://www.facebook.com/Vitalia-110827788271375' },
+        { id: 0, title: 'Vital-X Protein', text: 'follow us', image: '/asset/support/04.png', link: 'https://www.facebook.com/VitalXProteinOfficial' },
         { id: 0, title: 'Free Shipping', text: 'every order', image: '/asset/support/01.png', link: null },
         { id: 0, title: 'Support 7 days', text: 'office hours', image: '/asset/support/02.png', link: null },
     ]

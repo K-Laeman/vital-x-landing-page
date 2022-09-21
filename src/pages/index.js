@@ -8,6 +8,7 @@ import ProductHowtoB from "../components/ProductHowtoB"
 import VideoSection from "../components/VideoSection"
 import QouteSection from "../components/QuoteSection"
 import ProductBenefitB from "../components/ProductBenefitB"
+import CustomerReview from "../components/CustomerReview"
 
 export default function LandingB() {
     return (
@@ -21,7 +22,7 @@ export default function LandingB() {
             <VideoSection />
             <ProductBenefitB />
             <ProductHowtoB />
-            {/*  <CustomerReview /> */}
+            <CustomerReview />
         </MainLayout>
     )
 }
