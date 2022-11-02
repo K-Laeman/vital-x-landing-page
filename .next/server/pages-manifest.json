@@ -1,9 +1,9 @@
 {
   "/_app": "pages/_app.js",
   "/api/hello": "pages/api/hello.js",
+  "/shop-portal": "pages/shop-portal.html",
   "/checkout": "pages/checkout.html",
   "/": "pages/index.html",
-  "/shop-portal": "pages/shop-portal.html",
   "/thank-you": "pages/thank-you.html",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
